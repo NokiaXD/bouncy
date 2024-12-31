@@ -32,7 +32,7 @@ Find the **smallest number** where the proportion of bouncy numbers reaches **ex
 ## 📝 How to Run
 
 1. Clone this repository.
-2. execute the command this in your terminal.
+2. execute this command in your terminal.
 
 ```sh
  python bouncy.py
